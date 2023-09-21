@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/venus_public/static/css/main.cdced603.css",
-    "main.js": "/venus_public/static/js/main.22eae1a8.js",
+    "main.css": "/venus_public/static/css/main.a05fdca7.css",
+    "main.js": "/venus_public/static/js/main.4adf302c.js",
     "static/media/rotating-card-bg-front.jpeg": "/venus_public/static/media/rotating-card-bg-front.bdcdfadc0dacb9bc5f23.jpeg",
     "static/media/bg-products.jpg": "/venus_public/static/media/bg-products.816a52870b803914599a.jpg",
     "static/media/bg-about-us-4.jpg": "/venus_public/static/media/bg-about-us-4.973b957944ba5d39bca1.jpg",
@@ -36,11 +36,11 @@
     "static/media/logo-nasa.svg": "/venus_public/static/media/logo-nasa.c5d11f8820bfde5fd64db0074156e06c.svg",
     "static/media/logo-netflix.svg": "/venus_public/static/media/logo-netflix.432ed6b5c31b9bcab9a38e32bf46a1e9.svg",
     "index.html": "/venus_public/index.html",
-    "main.cdced603.css.map": "/venus_public/static/css/main.cdced603.css.map",
-    "main.22eae1a8.js.map": "/venus_public/static/js/main.22eae1a8.js.map"
+    "main.a05fdca7.css.map": "/venus_public/static/css/main.a05fdca7.css.map",
+    "main.4adf302c.js.map": "/venus_public/static/js/main.4adf302c.js.map"
   },
   "entrypoints": [
-    "static/css/main.cdced603.css",
-    "static/js/main.22eae1a8.js"
+    "static/css/main.a05fdca7.css",
+    "static/js/main.4adf302c.js"
   ]
 }
