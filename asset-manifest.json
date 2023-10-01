@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/venus_public/static/css/main.69c4b412.css",
-    "main.js": "/venus_public/static/js/main.c3ebb71f.js",
+    "main.js": "/venus_public/static/js/main.cea1fb52.js",
     "static/media/rotating-card-bg-front.jpeg": "/venus_public/static/media/rotating-card-bg-front.bdcdfadc0dacb9bc5f23.jpeg",
     "static/media/bg-products.jpg": "/venus_public/static/media/bg-products.816a52870b803914599a.jpg",
     "static/media/bg-about-us-4.jpg": "/venus_public/static/media/bg-about-us-4.973b957944ba5d39bca1.jpg",
@@ -9,12 +9,12 @@
     "static/media/rotating-card-bg-front.jpg": "/venus_public/static/media/rotating-card-bg-front.ab8cf823a4789edc3933.jpg",
     "static/media/city-profile.jpg": "/venus_public/static/media/city-profile.4d64bba97c3d1757379e.jpg",
     "static/media/bg-presentation.jpg": "/venus_public/static/media/bg-presentation.889630297390d27e8dfb.jpg",
-    "static/media/logo-mammamia.png": "/venus_public/static/media/logo-mammamia.2c29bffca320a5216154.png",
     "static/media/logo-afer.png": "/venus_public/static/media/logo-afer.eec8aeed1376985c6f99.png",
     "static/media/rotating-card-bg-back.jpeg": "/venus_public/static/media/rotating-card-bg-back.183088de91adb283a9ae.jpeg",
     "static/media/blog-9-4.jpg": "/venus_public/static/media/blog-9-4.de736e0b751f453415a5.jpg",
     "static/media/blog2.jpg": "/venus_public/static/media/blog2.aba7a3cb94805e9557d1.jpg",
     "static/media/tipografie.jpg": "/venus_public/static/media/tipografie.f20a55cbb84769f7da01.jpg",
+    "static/media/logo-nutrifitup.png": "/venus_public/static/media/logo-nutrifitup.444d4c05fe42e7c19f84.png",
     "static/media/embosarea.jpg": "/venus_public/static/media/embosarea.ce6768dcd78f98b2ff49.jpg",
     "static/media/logo-gemini.png": "/venus_public/static/media/logo-gemini.f9025b76a62041f32edb.png",
     "static/media/prepress.jpg": "/venus_public/static/media/prepress.e2e14c3d4336a6c6a05f.jpg",
@@ -40,10 +40,10 @@
     "static/media/logo-nasa.svg": "/venus_public/static/media/logo-nasa.c5d11f8820bfde5fd64db0074156e06c.svg",
     "index.html": "/venus_public/index.html",
     "main.69c4b412.css.map": "/venus_public/static/css/main.69c4b412.css.map",
-    "main.c3ebb71f.js.map": "/venus_public/static/js/main.c3ebb71f.js.map"
+    "main.cea1fb52.js.map": "/venus_public/static/js/main.cea1fb52.js.map"
   },
   "entrypoints": [
     "static/css/main.69c4b412.css",
-    "static/js/main.c3ebb71f.js"
+    "static/js/main.cea1fb52.js"
   ]
 }
