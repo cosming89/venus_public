@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/venus_public/static/css/main.69c4b412.css",
-    "main.js": "/venus_public/static/js/main.cea1fb52.js",
+    "main.css": "/venus_public/static/css/main.14d7b17e.css",
+    "main.js": "/venus_public/static/js/main.165866f2.js",
     "static/media/rotating-card-bg-front.jpeg": "/venus_public/static/media/rotating-card-bg-front.bdcdfadc0dacb9bc5f23.jpeg",
     "static/media/bg-products.jpg": "/venus_public/static/media/bg-products.816a52870b803914599a.jpg",
     "static/media/bg-about-us-4.jpg": "/venus_public/static/media/bg-about-us-4.973b957944ba5d39bca1.jpg",
@@ -12,12 +12,23 @@
     "static/media/logo-afer.png": "/venus_public/static/media/logo-afer.eec8aeed1376985c6f99.png",
     "static/media/rotating-card-bg-back.jpeg": "/venus_public/static/media/rotating-card-bg-back.183088de91adb283a9ae.jpeg",
     "static/media/blog-9-4.jpg": "/venus_public/static/media/blog-9-4.de736e0b751f453415a5.jpg",
+    "static/media/cutie5.png": "/venus_public/static/media/cutie5.19c551f0002e81d70d4c.png",
+    "static/media/cataloage2.png": "/venus_public/static/media/cataloage2.45a54a69a071a848b8d6.png",
+    "static/media/cataloage1.png": "/venus_public/static/media/cataloage1.08e04380f8799687e094.png",
+    "static/media/cutie4.png": "/venus_public/static/media/cutie4.dae8007cc48b9c885647.png",
     "static/media/blog2.jpg": "/venus_public/static/media/blog2.aba7a3cb94805e9557d1.jpg",
+    "static/media/cutie6.png": "/venus_public/static/media/cutie6.5620b7349c3ac2d47505.png",
     "static/media/tipografie.jpg": "/venus_public/static/media/tipografie.f20a55cbb84769f7da01.jpg",
+    "static/media/reviste2.png": "/venus_public/static/media/reviste2.0028b8a4bf0c9b6ce98b.png",
+    "static/media/cutie3.png": "/venus_public/static/media/cutie3.478e6b5192419dd5240f.png",
+    "static/media/reviste1.png": "/venus_public/static/media/reviste1.fe496b9edc2c133fb6bd.png",
     "static/media/logo-nutrifitup.png": "/venus_public/static/media/logo-nutrifitup.444d4c05fe42e7c19f84.png",
+    "static/media/ambalaje1.png": "/venus_public/static/media/ambalaje1.6a15adfead2374773279.png",
+    "static/media/cutie1.jpg": "/venus_public/static/media/cutie1.7ace5719ed994dda0fb0.jpg",
     "static/media/embosarea.jpg": "/venus_public/static/media/embosarea.ce6768dcd78f98b2ff49.jpg",
     "static/media/logo-gemini.png": "/venus_public/static/media/logo-gemini.f9025b76a62041f32edb.png",
     "static/media/prepress.jpg": "/venus_public/static/media/prepress.e2e14c3d4336a6c6a05f.jpg",
+    "static/media/cutie2.jpg": "/venus_public/static/media/cutie2.04abaf4c57d1c48104cf.jpg",
     "static/media/capsate.jpg": "/venus_public/static/media/capsate.5f072fc31da7a4b528a4.jpg",
     "static/media/stantare.jpg": "/venus_public/static/media/stantare.4afc6008fddc963bd5a7.jpg",
     "static/media/faltuire.jpg": "/venus_public/static/media/faltuire.e92b2d2e038dfbbe3b1c.jpg",
@@ -39,11 +50,11 @@
     "static/media/logo-apple.svg": "/venus_public/static/media/logo-apple.f9c2682e61da98dfbc703a4dccd0d064.svg",
     "static/media/logo-nasa.svg": "/venus_public/static/media/logo-nasa.c5d11f8820bfde5fd64db0074156e06c.svg",
     "index.html": "/venus_public/index.html",
-    "main.69c4b412.css.map": "/venus_public/static/css/main.69c4b412.css.map",
-    "main.cea1fb52.js.map": "/venus_public/static/js/main.cea1fb52.js.map"
+    "main.14d7b17e.css.map": "/venus_public/static/css/main.14d7b17e.css.map",
+    "main.165866f2.js.map": "/venus_public/static/js/main.165866f2.js.map"
   },
   "entrypoints": [
-    "static/css/main.69c4b412.css",
-    "static/js/main.cea1fb52.js"
+    "static/css/main.14d7b17e.css",
+    "static/js/main.165866f2.js"
   ]
 }
